@@ -1,7 +1,9 @@
 <div align='center'>
-
+ 
+img width="700" alt="" src="">
+ 
 <h1 align="center">Hi there, I'm Dakshit Chopra 👋</h1>
-<h3 align="center">A Developer and cybersecurity analyst.</h3>
+<h2 align="center">A Developer and cybersecurity analyst.</h2>
 🍀 I might not be where I want to be yet but I get closer everyday.<br>
 ⚡ Fun fact: I love being a sophopile.
  
