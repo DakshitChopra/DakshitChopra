@@ -10,10 +10,10 @@
 
  
 ### SKILLS
--C/C++ <a href="https://www.udemy.com/certificate/UC-7c45f8f9-8873-42d9-8a1f-04a83c1f521c/">[Click here]</a>
--Java
--Python
--HTML/CSS
+-C/C++ <a href="https://www.udemy.com/certificate/UC-7c45f8f9-8873-42d9-8a1f-04a83c1f521c/"></a><br />
+-Java <br />
+-Python<br />
+-HTML/CSS<br />
 -Dart
 <br />
 <br />
