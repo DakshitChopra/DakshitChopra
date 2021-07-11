@@ -17,9 +17,6 @@
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://th.bing.com/th/id/OIP.tEjpQhXnK1Ltcx8ZqpQJRAHaHO?w=207&h=201&c=7&o=5&dpr=1.25&pid=1.7" alt="AfterEffects" width="40" height="40"/> </a>
- 
-<br />
-<br />
 
  
 ### Connect with me:
