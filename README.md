@@ -1,7 +1,7 @@
 
 ### Hi there 👋 I'm Dakshit Chopra!
 
-### ABOUT ME
+### About me:
 -I'm 18y/o from India.<br />
 -Polymath<br />
 -App Developer<br />
@@ -9,7 +9,7 @@
 -Part-time Youtuber<br />
 
  
-### SKILLS
+### Languages and Tools:
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <a href="https://www.udemy.com/certificate/UC-7c45f8f9-8873-42d9-8a1f-04a83c1f521c/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://th.bing.com/th/id/OIP.RM4OyjBgIUlM9XVCuSvuGgHaHa?w=120&h=128&c=7&o=5&dpr=1.25&pid=1.7" alt="Java" width="40" height="40"/> </a>
@@ -21,9 +21,9 @@
 <br />
 <br />
 
-
  
-### CONNECT WITH ME
+### CONNECT WITH ME:
+
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
