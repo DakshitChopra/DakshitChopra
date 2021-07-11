@@ -30,6 +30,8 @@
 [instagram]: https://instagram.com/dakshitchopra
 [linkedin]: https://www.linkedin.com/in/dakshitchopra/
 
+![](https://komarev.com/ghpvc/?username=DakshitChopra&color=brightgreen)
+
 
 
 
