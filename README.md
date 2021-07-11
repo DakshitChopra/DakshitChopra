@@ -1,4 +1,3 @@
-https://www.linkedin.com/in/dakshitchopra/
 
 ### Hi there 👋 I'm Dakshit Chopra!
 
@@ -27,7 +26,6 @@ https://www.linkedin.com/in/dakshitchopra/
 [instagram]: https://instagram.com/dakshitchopra
 [linkedin]: https://www.linkedin.com/in/dakshitchopra/
 
-🚵‍♂️Recent Activity :[Click here]⛳
 
 
 
