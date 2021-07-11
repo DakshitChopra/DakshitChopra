@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Dakshit Chopra 👋</h1>
 <h3 align="center">A Developer and cybersecurity analyst.</h3>
-🍀 I might not be where I want to be yet but I get closer everyday.
+🍀 I might not be where I want to be yet but I get closer everyday.<br>
 ⚡ Fun fact: I'm love being a sophopile.
 
 
@@ -25,8 +25,8 @@
 [instagram]: https://instagram.com/dakshitchopra
 [linkedin]: https://www.linkedin.com/in/dakshitchopra/
 
-<br />
-<br />
+<br>
+<br>
 
 📊![](https://komarev.com/ghpvc/?username=DakshitChopra&color=brightgreen)💻
 <div>
