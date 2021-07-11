@@ -4,7 +4,8 @@
 <h3 align="center">A Developer and cybersecurity analyst.</h3>
 🍀 I might not be where I want to be yet but I get closer everyday.<br>
 ⚡ Fun fact: I love being a sophopile.
-
+ 
+#
 
 ### Connect with me:
 
@@ -12,7 +13,9 @@
 [<img align="center" alt="DakshitChopra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="DakshitChopra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
- ### Languages and Tools:
+#
+ 
+### Languages and Tools:
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <a href="https://www.udemy.com/certificate/UC-7c45f8f9-8873-42d9-8a1f-04a83c1f521c/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://th.bing.com/th/id/OIP.RM4OyjBgIUlM9XVCuSvuGgHaHa?w=120&h=128&c=7&o=5&dpr=1.25&pid=1.7" alt="Java" width="40" height="40"/> </a>
