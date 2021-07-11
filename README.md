@@ -3,14 +3,14 @@
 <h1 align="center">Hi there, I'm Dakshit Chopra 👋</h1>
 <h3 align="center">A Developer and cybersecurity analyst.</h3>
 🍀 I might not be where I want to be yet but I get closer everyday.<br>
-⚡ Fun fact: I'm love being a sophopile.
+⚡ Fun fact: I love being a sophopile.
 
 
 ### Connect with me:
 
-[<img align="left" alt="Codephile | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="DakshitChopra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="DakshitChopra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="Codephile | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="center" alt="DakshitChopra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="DakshitChopra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
  ### Languages and Tools:
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
