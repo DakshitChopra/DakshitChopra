@@ -31,6 +31,8 @@
 <br>
 <br>
 
+[![trophy](https://github-profile-trophy.vercel.app/dakshitchopra=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 🍀![](https://komarev.com/ghpvc/?username=DakshitChopra&color=brightgreen)📊
 <div>
 
