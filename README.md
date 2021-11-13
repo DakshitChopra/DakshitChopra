@@ -8,7 +8,7 @@
 #
 ###
 <img src='https://github-readme-stats.vercel.app/api?username=dakshitchopra&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<p><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dakshitchopra&theme=tokyonight&hide_langs_below=4' align="middle" /></p>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dakshitchopra&theme=tokyonight&hide_langs_below=4' align="middle" /><br><br><br><br><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dakshitchopra&%22%20alt=%22skjha1" /></p>
 
