@@ -6,7 +6,9 @@
 ⚡ Fun fact: I love being a sophopile.
  
 #
-
+<img src='https://github-readme-stats.vercel.app/api?username=dakshitchopra&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dakshitchopra&theme=tokyonight&hide_langs_below=4' align="middle" />
+ 
 ### Connect with me:
 
 [<img align="center" alt="Codephile | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -31,8 +33,6 @@
 <br>
 <br>
 
-<img src='https://github-readme-stats.vercel.app/api?username=dakshitchopra&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dakshitchopra&theme=tokyonight&hide_langs_below=4' align="middle" />
  
 <br>
 🍀![](https://komarev.com/ghpvc/?username=DakshitChopra&color=brightgreen)📊
