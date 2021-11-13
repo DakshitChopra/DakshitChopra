@@ -40,7 +40,6 @@
 
  
 <br>
-🍀![](https://komarev.com/ghpvc/?username=DakshitChopra&color=brightgreen)📊
 <div>
 
 
