@@ -3,16 +3,17 @@
 <h1 align="center">Hi there, I'm Dakshit Chopra 👋</h1>
 <h2 align="center">A Developer and Cyber Security Analyst.</h2>
 🍀 I might not be where I want to be yet but I get closer everyday.<br>
-⚡ Fun fact: I love being a sophopile.
+⚡ Fun fact: I love being a sophopile.<br>
  
 #
 <img src='https://github-readme-stats.vercel.app/api?username=dakshitchopra&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dakshitchopra&theme=tokyonight&hide_langs_below=4' align="middle" />
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dakshitchopra&%22%20alt=%22skjha1" /></p>
 <br>
-
 <br>
-### Connect with me:
+ 
+Connect with me:
 
 [<img align="center" alt="Codephile | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="center" alt="DakshitChopra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
