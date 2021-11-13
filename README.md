@@ -12,8 +12,7 @@
 #
 ###
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dakshitchopra&%22%20alt=%22skjha1" /></p>
-<br>
-<br>
+
 #
  
 ### Connect with me:
