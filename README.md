@@ -3,7 +3,6 @@
 <h1 align="center">Hi there, I'm Dakshit Chopra 👋</h1>
 <h2 align="center">A Developer and Cyber Security Analyst.</h2>
 🍀 I might not be where I want to be yet but I get closer everyday.<br>
-⚡ Fun fact: I love being a sophopile.<br>
  
 #
 ###
