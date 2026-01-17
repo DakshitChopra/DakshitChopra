@@ -32,7 +32,7 @@
 
 [youtube]: https://www.youtube.com/c/Codephile
 [instagram]: https://instagram.com/dakshitchopra
-[linkedin]: https://www.linkedin.com/in/dakshitchopra/
+[linkedin]: https://www.linkedin.com/in/aionchronous/
 
 <br>
 <br>
