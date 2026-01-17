@@ -31,8 +31,8 @@
 <a href="" target="_blank"> <img src="https://th.bing.com/th/id/OIP.tEjpQhXnK1Ltcx8ZqpQJRAHaHO?w=207&h=201&c=7&o=5&dpr=1.25&pid=1.7" alt="AfterEffects" width="40" height="40"/> </a>
 
 [youtube]: https://www.youtube.com/c/Codephile
-[instagram]: https://instagram.com/dakshitchopra
-[linkedin]: https://www.linkedin.com/in/aionchronous/
+[instagram]: https://instagram.com/aionchronous
+[linkedin]: https://www.linkedin.com/in/dakshitchopra/
 
 <br>
 <br>
