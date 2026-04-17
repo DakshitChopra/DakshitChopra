@@ -18,14 +18,6 @@
 
 ---
 
-## 🤝 Connect with me
-
-[![YouTube](https://img.shields.io/badge/YouTube-Codephile-red?style=flat&logo=youtube)](https://www.youtube.com/c/Codephile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DakshitChopra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dakshitchopra/)
-[![Instagram](https://img.shields.io/badge/Instagram-aionchronous-purple?style=flat&logo=instagram)](https://instagram.com/aionchronous)
-
----
-
 ## 🛠️ Languages & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
