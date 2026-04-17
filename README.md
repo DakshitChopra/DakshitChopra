@@ -1,39 +1,62 @@
 <div align="center">
 
-# Hi there, I'm Dakshit Chopra 👋
+<h1>Hi there, I'm Dakshit Chopra 👋</h1>
+<h3>App Developer & Competitive Programmer</h3>
 
-### App Developer & Competitive Programmer
+🍀 I might not be where I want to be yet, but I get closer every day.
 
-*🍀 I might not be where I want to be yet, but I get closer every day.*
+<br/>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=dakshitchopra&show_icons=true&theme=tokyonight&count_private=true&line_height=40" align="left" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshitchopra&theme=tokyonight&hide_langs_below=4" alt="Top Languages"/>
 
-## 📊 GitHub Stats
+<br clear="both"/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dakshitchopra&show_icons=true&theme=tokyonight&count_private=true&line_height=40" alt="Dakshit's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshitchopra&theme=tokyonight" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshitchopra&theme=tokyonight&hide_langs_below=4" alt="Top Languages" />
+<br/>
+<hr/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshitchopra" alt="GitHub Streak" />
+### 🤝 Connect with me
 
----
+<a href="https://www.youtube.com/c/Codephile">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" width="22px"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/dakshitchopra/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="22px"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/aionchronous">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="22px"/>
+</a>
 
-## 🤝 Connect with me
+<br/>
+<hr/>
 
-[![YouTube](https://img.shields.io/badge/YouTube-Codephile-red?style=flat&logo=youtube)](https://www.youtube.com/c/Codephile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DakshitChopra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dakshitchopra/)
-[![Instagram](https://img.shields.io/badge/Instagram-aionchronous-purple?style=flat&logo=instagram)](https://instagram.com/aionchronous)
+### 🛠️ Languages & Tools
 
----
-
-## 🛠️ Languages & Tools
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
+<a href="#">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</a>
+<a href="https://www.udemy.com/certificate/UC-7c45f8f9-8873-42d9-8a1f-04a83c1f521c/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</a>
+<a href="#">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a>
+<a href="#">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+<a href="#">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</a>
+<a href="#">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40"/>
+</a>
 
 </div>
